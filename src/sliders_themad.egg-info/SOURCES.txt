@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+pyproject.toml
+src/sliders/__init__.py
+src/sliders_themad.egg-info/PKG-INFO
+src/sliders_themad.egg-info/SOURCES.txt
+src/sliders_themad.egg-info/dependency_links.txt
+src/sliders_themad.egg-info/top_level.txt
